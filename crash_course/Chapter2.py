@@ -27,7 +27,7 @@ message = f"{author.title()} once said, {quote2}"
 #print(64 - 56)
 #print(64 / 8)
 #print(2 * 4)
-
+123
 # 2-9 Favorite number
 favorite_number = 57
 fmessage = f"My favorite number is {favorite_number}"
